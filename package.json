@@ -1,0 +1,13 @@
+{
+  "name": "webcord",
+  "version": "1.0.0",
+  "description": "Zəif telefonlar üçün yüngül Discord alternativi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
